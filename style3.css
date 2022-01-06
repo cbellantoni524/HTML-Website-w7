@@ -1,0 +1,33 @@
+.background-one {
+    background-color:RGB(148, 148, 146);
+}
+
+.background-two {
+    background-color: RGB(219, 219, 217);
+}
+
+h1{
+    text-align: center;
+    color:RGB(219, 219, 217)
+}
+
+h4{
+    text-align: center;
+}
+
+p{
+    color:white;
+}
+.row {
+    display: flex;
+  }
+  
+  .column {
+    flex: 33.33%;
+    padding: 5px;
+    width: 33.3%;
+  }
+
+  .hov:hover {
+      background-color:gray;
+  }

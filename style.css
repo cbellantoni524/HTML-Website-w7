@@ -1,0 +1,56 @@
+.background-one {
+    background-color:RGB(143, 184, 138);
+}
+
+.background-two {
+    background-color: RGB(226, 232, 225);
+}
+
+h1{
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+}
+
+.row {
+    display: flex;
+  }
+  
+  .column {
+    flex: 33.33%;
+    padding: 5px;
+    width: 33.3%;
+  }
+
+  .hov:hover {
+      background-color:gray;
+  }
+
+table {
+	border-collapse: collapse;
+	width: 100%;
+}
+
+th, td {
+	padding: 8px;
+	text-align: center;
+	border-bottom: 1px solid black;
+}
+
+Tr:nth-child(even){
+	background-color:rgb(185, 185,185)
+}
+
+Tr:hover {
+	background-color:gray;
+}
+
+form {
+    text-align: center;
+}
+
+ul{
+    text-align: center;
+}
